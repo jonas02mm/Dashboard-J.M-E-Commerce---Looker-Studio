@@ -10,7 +10,7 @@ Este projeto consiste em um dashboard interativo desenvolvido no Looker Studio p
 
 ## 🚀 Tecnologias Utilizadas
 * **Looker Studio** (para a criação dos elementos visuais e relatórios)
-* **Google Sheets / BigQuery** (como fonte de dados)
+* **Google Sheets / BigQuery** 
 
 ## 🧠 O que foi desenvolvido:
 * Criação de regras de agrupamento condicional personalizadas para segmentação de **Faixa Etária**.
