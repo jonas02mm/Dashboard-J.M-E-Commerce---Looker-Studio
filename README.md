@@ -5,9 +5,6 @@ Este projeto consiste em um dashboard interativo desenvolvido no Looker Studio p
 ## 🔗 Link para o Projeto
 👉 [Clique aqui para acessar o Dashboard Interativo](https://datastudio.google.com/s/hP_uF2T0-to)
 
-## 📸 Visualização do Painel
-![Visualização do Dashboard](dashboard.png)
-
 ## 🚀 Tecnologias Utilizadas
 * **Looker Studio** (para a criação dos elementos visuais e relatórios)
 * **Google Sheets / BigQuery** 
